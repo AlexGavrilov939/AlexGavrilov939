@@ -27,4 +27,4 @@ Generated images automatically switch between GitHub light theme and GitHub
 dark theme.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGavrilov939)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGavrilov939&count_private=true&hide=stars&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGavrilov939&count_private=true&hide=stars&show_icons=true&theme=transparent)
