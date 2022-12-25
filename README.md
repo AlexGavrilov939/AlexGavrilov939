@@ -2,5 +2,5 @@
 
 
 
-![Visitor Count](https : //profile-counter.glitch.me/AlexGavrilov939/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/AlexGavrilov939/count.svg)
 
