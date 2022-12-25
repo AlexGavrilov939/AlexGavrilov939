@@ -25,3 +25,5 @@ repositories you have contributed to, but do not own.
 
 Generated images automatically switch between GitHub light theme and GitHub
 dark theme.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexGavrilov939)](https://github.com/anuraghazra/github-readme-stats)
