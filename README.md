@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=AlexGavrilov939)](https://github.com/KnlnKS/leetcode-stats)
+![](https://leetcard.jacoblin.cool/alexgavrilov939?border=0&radius=20)
 
 <p align="left">
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGavrilov939&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
